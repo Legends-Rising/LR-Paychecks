@@ -98,5 +98,5 @@ config.billJob = {
 4. Target player will receive a confirmation prompt
 5. Once confirmed, funds are distributed between society and biller
 
-## Support
-For support, please contact Legends Studio.
+## Contributing 🤝
+- Feel free to open issues or submit pull requests with suggestions/fixes.
